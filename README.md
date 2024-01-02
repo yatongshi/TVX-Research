@@ -33,5 +33,8 @@ Comparing a graph of the conversion rate and average engagement time. The trend 
 <br>
 
 Graphing the user channel percentage. Looking at the percentage of User Channel, Organic Search plays 44.6% out of all channels, which is a reasonal number. However, the referral rate only accounts for less than 1%. Our priority should be setting up a referral program from our existing customers to increase sales. 
+
 ![TVX-Research](images/output_63_0.png)
 <br>
+
+hi
