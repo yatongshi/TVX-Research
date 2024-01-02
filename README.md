@@ -24,8 +24,8 @@ Graphing a comparison of sessions and engaged sessions by country. The graph val
 Graph revealing the average engagement time by country. When we measure the highest average engagement time, we can see that there are many countries that have not popped up previously but are interested in the products, including 5 Asia-Pacific countries, 4 African countries, and 3 South American countries. Those are also potential markets that we can target at in the future marketing plan.
 ![TVX-Research](images/output_47_0.png)
 
-Comparing a graph of the conversion rate and average engagement time. The trend shown in Conversion Rate is very similar to the trend in Average Engagement Time. The Referral and Organic Search provides the highest ranking for both index, which means that they are the most effective ways to convert a potential customer to a user. For the future, we can try to prioritizing on the two channels to obtain the most efficient results.
+Comparing a graph of the conversion rate and average engagement time. The trend shown in Conversion Rate is very similar to the trend in Average Engagement Time. The Referral and Organic Search provides the highest ranking for both index, which means that they are the most effective ways to convert a potential customer to a user. For the future, we can try to prioritizing on the two channels to obtain the most efficient results. 
 ![TVX-Research](images/output_58_0.png)
 
-Graphing the user channel percentage. Looking at the percentage of User Channel, Organic Search plays 44.6% out of all channels, which is a reasonal number. However, the referral rate only accounts for less than 1%. Our priority should be setting up a referral program from our existing customers to increase sales.
+Graphing the user channel percentage. Looking at the percentage of User Channel, Organic Search plays 44.6% out of all channels, which is a reasonal number. However, the referral rate only accounts for less than 1%. Our priority should be setting up a referral program from our existing customers to increase sales. 
 ![TVX-Research](images/output_63_0.png)
