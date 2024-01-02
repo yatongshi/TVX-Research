@@ -12,7 +12,7 @@ Main Question: how do we attract more people to try out TVX's cleaning products?
 * Prioritizing Keyword Optimization for Organic Search
 
 ### Data Insights from the Report
-Graph showing the top 10o countries with most users. This reveals that the top countries that obtain volume are Vienam, the United States, China, Philippines, and Indonesia. Our potential market that natually attracts volume are in the South East Asia and North America regions.
+Graph showing the top 10 countries with most users. This reveals that the top countries that obtain volume are Vienam, the United States, China, Philippines, and Indonesia. Our potential market that natually attracts volume are in the South East Asia and North America regions.
 ![TVX-Research](images/output_28_0.png)
 (<br>) 
 
