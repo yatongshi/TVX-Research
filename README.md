@@ -4,7 +4,7 @@ Main Question: how do we attract more people to try out TVX's cleaning products?
 * (add another line of description here)
   
 ### Results of Report
-From this research I derived new key findings that can lead to higher engagement rate, return and revenue for the company.
+From this research I derived new key findings that can lead to higher engagement rate, return and revenue for the company. </br>
 _These suggestions include:_
 * Creating a Referral Program
 * Targeting New Markets and Countries
